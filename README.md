@@ -1,4 +1,4 @@
-# Android-tuto-OnCliclListener Vs OnClick Property
+# Android-tuto-OnClickListener Vs OnClick Property
 
 ### A sample single moduler code to get refference of things
 
